@@ -24,10 +24,6 @@
 
 ---
 
-![Metrics](https://metrics.lecoq.io/TU_USUARIO?template=classic&languages=1&isocalendar=1&introduction=1&stars=1&achievements=1&theme=tokyonight)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
