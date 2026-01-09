@@ -24,12 +24,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Proyectos Destacados
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otazzu&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otazzu&layout=compact&theme=tokyonight" height="165" />
-</p>
+### 🔹 HandyBox – Full Stack App
+- React + Flask + SQLAlchemy
+- Integración de APIs
+- Envío de correos (SMTPLIB)
+- Gestión multimedia con Cloudinary
+
+🔗 https://sample-service-name-otbi.onrender.com/
 
 ---
 
