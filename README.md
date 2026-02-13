@@ -23,16 +23,9 @@
 - 📚 Siempre aprendiendo y explorando nuevas tecnologías.  
 
 ---
+## 📈 Actividad en GitHub
 
-## 🚀 Proyectos Destacados
-
-### 🔹 HandyBox – Full Stack App
-- React + Flask + SQLAlchemy
-- Integración de APIs
-- Envío de correos (SMTPLIB)
-- Gestión multimedia con Cloudinary
-
-🔗 https://sample-service-name-by2g.onrender.com/
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=otazzu&theme=tokyo-night)
 
 ---
 
