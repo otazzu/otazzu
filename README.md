@@ -42,4 +42,4 @@
 
 ---
 
-✨ _Gracias por visitar mi perfil, nos vemos en el código!_
+✨ _Gracias por visitar mi perfil!_
